@@ -1,0 +1,6 @@
+{
+  "name": "Ghost CMS Desktop Scheduler",
+  "description": "An intuitive, desktop-optimized dashboard and content scheduler for Ghost CMS, featuring rich text editing, active publish scheduling, and an AI-powered drafting assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
